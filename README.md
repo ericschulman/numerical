@@ -15,6 +15,7 @@ The fall focused on numerical optimization, approximation, and linear algebra. I
 # Spring M 387D
 
 The spring excersizes focus on ODEs and PDEs. It is an introduction to the theory and practice of commonly used numerical algorithms for the solution of ordinary differential equations, and elliptic, parabolic, and hyperbolic partial differential equations. Three lecture hours a week for one semester.
+
 8. HW1 - Euler methods,Dahlquist stability
 9. HW2 - Linear multi-step methods
 10. HW3 - Finite element methods
